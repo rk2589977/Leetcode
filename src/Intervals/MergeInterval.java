@@ -23,5 +23,3 @@ public class MergeInterval {
         return Arrays.copyOf(intervals,i+1);
     }
 }
-
-//   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
