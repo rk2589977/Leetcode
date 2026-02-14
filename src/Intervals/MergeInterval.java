@@ -23,3 +23,5 @@ public class MergeInterval {
         return Arrays.copyOf(intervals,i+1);
     }
 }
+// this is the new line of code
+
