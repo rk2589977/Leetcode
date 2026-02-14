@@ -25,3 +25,5 @@ public class MergeInterval {
 }
 // this is the new line of code
 
+// example :  [ [1,3], [2,6], [5,7], [6,7], [15,18], [17,20], [21,22] ]
+
